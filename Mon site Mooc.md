@@ -16,4 +16,5 @@
 ### Contact
 		    Mon contact serai identique que mon entete centré et de meme couleur.
 			
-			voici comment je prevoit mon site. merci.
+			voici comment je prevoit mon site.
+            - merci.

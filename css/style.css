@@ -1,0 +1,40 @@
+.entete{color: white;
+        text-align: center;
+          border: double;
+          text-decoration: blink;
+          background-color:rgba(90,190,190,50);
+          margin: 100px;
+          margin-bottom: auto;
+          margin-top: auto;}
+.titre{ color: white;
+  text-align: center;
+    border-width:2px;
+          border-style:solid;
+          border-color:blue;
+        padding: 20px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+        background-color:rgba(170,90,250,50);
+        border-radius:20px;
+     
+    }
+    .article1{color: white;
+    text-align: left;
+    border-width:2px;
+          border-style:solid;
+          border-color:blue;
+        padding: 20px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+        background-color:rgba(170,90,250,50);
+        border-radius:20px;   
+    }
+    body{padding: 20px;margin:50px;}
+    .pied{color: white;
+        text-align: center;
+          border: double;
+          text-decoration: blink;
+          background-color:rgba(90,190,190,50);
+          }
